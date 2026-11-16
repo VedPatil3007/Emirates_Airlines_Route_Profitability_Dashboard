@@ -243,6 +243,8 @@ From initial data preparation and validation to SQL-based business analysis and 
 
 **Ved Patil** | [LinkedIn](https://linkedin.com/in/vedpatil3076/)
 
-Aspiring Data Analyst | Business Intelligence Enthusiast
+Aspiring Data Analyst 
+
+**Project:** Emirates Airlines – Revenue & Route Profitability Analysis
 
 **Technologies:** SQL | PostgreSQL | Power BI | DAX
